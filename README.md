@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Tasheel Information Technology](https://www.tasheelinfotech.com/wp-tasheelinfotech/home-ar/)
 
-- 🌱 I’m currently learning **.Net Core APIs / Web Application MVC / JWT Authentication / Angular / Database Management Systems**
+- 🌱 I’m currently learning **.Net Core APIs / Web Applications MVC Core / JWT Authentication / Front End Development / Angular / Database Management Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Omaradel320](https://github.com/Omaradel320)
 
