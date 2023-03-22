@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omaradel320" alt="omaradel320" /></a> </p>
 
-- 🔭 I’m currently working on [Tasheel Information Technology](https://www.tasheelinfotech.com/wp-tasheelinfotech/home-ar/)
+- 🔭 I’m currently working at [Tasheel Information Technology](https://www.tasheelinfotech.com/wp-tasheelinfotech/home-ar/)
 
 - 🌱 I’m currently learning **.Net Core APIs / Web Application MVC / JWT Authentication / Angular / Database Management Systems**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Omaradel320](https://github.com/Omaradel320)
+
+- Connect with me: **omar.solimansendiony@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
