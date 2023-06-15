@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Omar Adel</h1>
 <h3 align="center">A passionate .Net developer from Egypt</h3>
 
-- 🔭 I’m currently working at InTheKloud(https://www.inthekloud.com/)
 - 👨‍💻 All of my projects are available at [https://github.com/Omaradel320](https://github.com/Omaradel320)
 - Connect with me: **omar.solimansendiony@gmail.com**
-- ⚡Fun fact **I think I am funny**
 
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
